@@ -18,7 +18,7 @@
 
 
 - 🌱 I’m currently learning about anything and everything around JavaScript.
-- 💬 Ask me about JavaScript, Flutter, Ethereum blockchain.
+- 💬 Ask me about JavaScript, Flutter and Ethereum blockchain.
 - 👗 I'm a fashion enthusiast, i love the vogue and glamour.
 - 😄 Pronouns: He/Him
 - 🎶 I have a good music taste 😁
